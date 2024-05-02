@@ -6,7 +6,7 @@ import Contact from "./pages/contact";
 
 function App() {
   return (
-    <div className="App">
+    <>
       <Router>
         <Routes>
           <Route exact path="/" element={<Home />} />
@@ -14,7 +14,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
         </Routes>
       </Router>
-    </div>
+    </>
   );
 }
 
