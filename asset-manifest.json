@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/multipage-temp/static/js/main.32ebcaf5.js",
+    "main.js": "/multipage-temp/static/js/main.91c8b0e0.js",
     "static/js/453.51cdafc4.chunk.js": "/multipage-temp/static/js/453.51cdafc4.chunk.js",
     "index.html": "/multipage-temp/index.html",
-    "main.32ebcaf5.js.map": "/multipage-temp/static/js/main.32ebcaf5.js.map",
+    "main.91c8b0e0.js.map": "/multipage-temp/static/js/main.91c8b0e0.js.map",
     "453.51cdafc4.chunk.js.map": "/multipage-temp/static/js/453.51cdafc4.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.32ebcaf5.js"
+    "static/js/main.91c8b0e0.js"
   ]
 }
